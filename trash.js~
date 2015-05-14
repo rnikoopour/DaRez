@@ -1,7 +1,0 @@
-var Q = require('q')
-var pmongo = require('promised-mongo')
-var db = ('./Database/DaRez')
-
-console.log(db)
-
-
