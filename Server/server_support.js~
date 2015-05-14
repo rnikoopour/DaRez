@@ -1,0 +1,8 @@
+module.exports = {
+    GetSale: function (length) {
+	if (!length) {
+	    length = 10
+	}
+	
+    }
+}
